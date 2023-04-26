@@ -123,10 +123,10 @@ predict(w1,w2,test)
 ```
 # OUTPUT
 ## Plt.plot(losses) :
-![OUTPUT-01]IMG-01.PNG]
+![OUTPUT-01](IMG-01.PNG)
 
 ## Input and corresponding output of XOR Gate :
-![OUTPUT-01]IMG-02.PNG]
+![OUTPUT-01](IMG-02.PNG)
 
 # RESULT
 Thus, a program involving python to implement a perceptron for Implementation of MLP for non linearly separable problem is developed and executted successfully.
